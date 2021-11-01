@@ -1,0 +1,16 @@
+PODS:
+  - CMSTest (0.1.0)
+
+DEPENDENCIES:
+  - CMSTest (from `../`)
+
+EXTERNAL SOURCES:
+  CMSTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CMSTest: f1dbcc801eccb23b793106fe3df076bd421ea042
+
+PODFILE CHECKSUM: 84ed7a24459f5d6775faba419c5444887953ea6c
+
+COCOAPODS: 1.11.2

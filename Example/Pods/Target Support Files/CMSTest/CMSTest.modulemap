@@ -1,0 +1,6 @@
+framework module CMSTest {
+  umbrella header "CMSTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
